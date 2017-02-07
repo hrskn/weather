@@ -1,4 +1,4 @@
-var api = '035a7c126e100825991fb994b6ed40d2';
+var api = ""
   document.body.style.backgroundColor = "#AA0000";
 function update(weather) {
   icon.src = "http://openweathermap.org/img/w/" + weather.code + ".png"
